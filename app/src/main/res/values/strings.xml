@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PermissionLab</string>
+    <string name="accessibility_service_name">PermissionLab Accessibility Inspector</string>
+    <string name="accessibility_service_description">Test service used to verify accessibility settings and dispatch interaction gestures.</string>
+    <string name="notification_listener_service_name">PermissionLab Notification Listener</string>
+    <string name="device_admin_label">PermissionLab Device Admin</string>
+    <string name="device_admin_description">Used to test Device Administration API status.</string>
+    
+    <string name="status_granted">GRANTED</string>
+    <string name="status_denied">DENIED</string>
+    <string name="status_restricted">RESTRICTED</string>
+    <string name="status_not_applicable">N/A</string>
+    
+    <string name="btn_grant">Grant / Configure</string>
+    <string name="btn_test">Test Permission</string>
+    <string name="btn_adb">ADB / Root</string>
+    
+    <string name="title_summary">Permissions Overview</string>
+    <string name="desc_summary">Real-time status check for all special, privileged, and restricted Android permissions.</string>
+</resources>
